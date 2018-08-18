@@ -1,3 +1,4 @@
+# long live deletehumanity
 import crypt
 import sys
 import commands
